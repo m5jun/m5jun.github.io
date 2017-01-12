@@ -1,51 +1,29 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 每天进步一点点
+keywords: m5jun, 熊
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+## 个人介绍
 
-仰慕「优雅编码的艺术」。
-
-## 坚信
-
-* 熟能生巧
-* 努力改变人生
+我是Java空城师，目前主要从事Java服务端开发。平时非常喜欢篮球、看书、技术分享。
 
 ## 联系
 
-* GitHub：[@mzlogin](https://github.com/mzlogin)
-* 掘金：[@mzlogin](http://gold.xitu.io/user/570ddaeb2e958a005c63b2da)
-* LinkedIn：[@mazhuang](https://www.linkedin.com/in/mazhuang)
+* GitHub：[@m5jun](https://github.com/m5jun)
 * 博客：[{{ site.title }}]({{ site.url }})
-* 微博: [@mzlogin](http://weibo.com/mzlogin)
-* 知乎: [@mzlogin](http://www.zhihu.com/people/mzlogin)
-* 豆瓣: [@壮哥不胖](http://www.douban.com/people/freedim)
+* 微博: [@m5jun](http://weibo.com/m5jun)
+* 知乎: [@m5jun](https://www.zhihu.com/people/m5jun/activities)
+* 豆瓣: [@m5jun](https://www.douban.com/people/66741322/)
 
 ## Skill Keywords
 
-#### Software Engineer Keywords
 <div class="btn-inline">
     {% for keyword in site.skill_software_keywords %}
-    <button class="btn btn-outline" type="button">{{ keyword }}</button>
-    {% endfor %}
-</div>
-
-#### Mobile Developer Keywords
-<div class="btn-inline">
-    {% for keyword in site.skill_mobile_app_keywords %}
-    <button class="btn btn-outline" type="button">{{ keyword }}</button>
-    {% endfor %}
-</div>
-
-#### Windows Developer Keywords
-<div class="btn-inline">
-    {% for keyword in site.skill_windows_keywords %}
     <button class="btn btn-outline" type="button">{{ keyword }}</button>
     {% endfor %}
 </div>
