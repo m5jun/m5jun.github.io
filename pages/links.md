@@ -13,3 +13,4 @@ permalink: /links/
 * [predatorray](http://www.predatorray.me/)
 * [yinhaomin](http://www.yinhaomin.com/)
 * [Skywalker](http://www.littlewhite.me/)
+* [shannon](http://shannon.science/)
