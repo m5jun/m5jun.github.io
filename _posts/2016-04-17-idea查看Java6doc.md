@@ -6,7 +6,7 @@ categories: JDK
 keywords: jdk6, javadoc, mac
 ---
 
-## 问题描述
+### 问题描述
 我发现在mac系统中，在intellij idea中无法查看java6的javadoc，jdk版本是1.6.0_65，例如我想查看HashMap的put方法，点开put方法的源代码如下：
 
 ```java
@@ -36,10 +36,10 @@ keywords: jdk6, javadoc, mac
     }
 ```
 
-## 原因分析
+### 原因分析
 在网上也查了些资料，发现在/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home下没有src.jar源代码的包导致的，低版本jdk6是没有的。
 
-## 解决方案
+### 解决方案
 升级版本，需要去apple developer下载更高的版本，下载地址： https://developer.apple.com/downloads/, 我下载的版本是：Java for OS X 2013-005 Developer Package, 下载完安装后，在idea的project structure中添加你刚才安装的jdk版本，再打开put方法就能清晰地看见源代码了。
 
 ```java
