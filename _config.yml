@@ -84,10 +84,10 @@ repository: m5jun/m5jun.github.io
 # ---------------- #
 github_username: m5jun
 douban_username: m5jun
-facebook_username: mzlogin
-weibo_username: mzlogin
+#facebook_username: mzlogin
+#weibo_username: mzlogin
 zhihu_username: m5jun
-twitter_username: mzlogin
+#twitter_username: mzlogin
 
 # ---------------- #
 #      Comments    #
