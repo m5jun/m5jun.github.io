@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: http://www.m5jun.com
 date_format: "ordinal"
 title: m5jun
 subtitle: "每天进步一点点"
@@ -77,16 +77,16 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: m5jun/m5jun.github.io
 
 # ---------------- #
 #      Socials     #
 # ---------------- #
 github_username: m5jun
-douban_username: freedim
+douban_username: m5jun
 facebook_username: mzlogin
 weibo_username: mzlogin
-zhihu_username: mzlogin
+zhihu_username: m5jun
 twitter_username: mzlogin
 
 # ---------------- #
