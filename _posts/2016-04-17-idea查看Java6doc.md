@@ -7,6 +7,7 @@ keywords: jdk6, javadoc, mac
 ---
 
 ### 问题描述
+
 我发现在mac系统中，在intellij idea中无法查看java6的javadoc，jdk版本是1.6.0_65，例如我想查看HashMap的put方法，点开put方法的源代码如下：
 
 ```java
