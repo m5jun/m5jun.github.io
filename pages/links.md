@@ -14,5 +14,5 @@ permalink: /links/
 * [yinhaomin](http://www.yinhaomin.com/)
 * [Skywalker](http://www.littlewhite.me/)
 * [shannon](http://shannon.science/)
-* [凤凰牌老熊](http://blog.lixf.cn/about/)
+* [凤凰牌老熊](http://blog.lixf.cn/)
 
