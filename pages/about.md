@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: 每天进步一点点
+description: 所有伟大源于一个勇敢的开始
 keywords: m5jun, 熊
 comments: true
 menu: 关于
@@ -10,7 +10,7 @@ permalink: /about/
 
 ## 个人介绍
 
-Java空城师，目前主要从事Java服务端开发。平时非常喜欢篮球、看书、技术分享。
+Java空城师，目前主要从事金融行业，Java服务端开发。平时非常喜欢篮球、看书、技术分享。
 
 ## 联系
 
