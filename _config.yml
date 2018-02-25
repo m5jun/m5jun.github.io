@@ -34,9 +34,9 @@ navs:
     href: /categories/
     label: 分类
 
-#  -
-#    href: /wiki/
-#    label: 维基
+  -
+    href: /wiki/
+    label: 维基
 
   -
     href: /links/
@@ -110,4 +110,4 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [Java, Python, JavaScript, MySQL, Redis, MQ, RPC]
+skill_software_keywords: [Java, 分布式, 架构, 数据库，金融]

@@ -20,7 +20,7 @@ Java空城师，目前主要从事金融行业，Java服务端开发。平时非
 * 知乎: [@m5jun](https://www.zhihu.com/people/m5jun/activities)
 * 豆瓣: [@m5jun](https://www.douban.com/people/66741322/)
 
-## Skill Keywords
+## 技能
 
 <div class="btn-inline">
     {% for keyword in site.skill_software_keywords %}
