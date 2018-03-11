@@ -16,7 +16,7 @@ Java里HashMap是用得最多的数据结构之一，现总结如下：
 如下图所示，HashMap底层就是一个数组结构，数组中的每一项又是一个链表。
 当新建一个HashMap的时候，就会初始化一个数组。
 
-![HashMap结构](/images/posts/mysql/hashmap.png)
+![HashMap结构](/images/posts/java/hashmap.png)
 
 # 思考
 * HashMap为什么数组的长度都是2的倍数？
